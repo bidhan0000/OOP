@@ -16,7 +16,7 @@ String. Don't forget: use \"
 instead of " !
 
 '' is not the same as "*/
-    System.out.println("A \"quoted\" String is\n'much' better if you learn\nthe rules of \"escape sequences.\"\nAlso,\"\" represent an empty\nString. Don't forget: use \\\ninsted of \" !");
+    System.out.println("A \"quoted\" String is\n'much' better if you learn\nthe rules of \"escape sequences.\"\nAlso,\"\" represent an empty\nString. Don't forget: use \\\"\ninsted of \" !");
 
     }
     
