@@ -32,7 +32,7 @@ public class task8 {
             System.out.println("Enter a base:");
             int base= scan.nextInt();
         
-            System.out.println("The area of triangle is :"+ (1/2*base*height));
+            System.out.println("The area of triangle is :"+ (base*height)/2);
 
             System.out.println("Enter length :");
             int len = scan.nextInt();
